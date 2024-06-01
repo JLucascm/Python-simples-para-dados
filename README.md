@@ -60,6 +60,7 @@ O que este código faz:
 4.	Visualiza as vendas por produto usando um gráfico de barras com seaborn.
 5.	Calcula a receita total por data e visualiza a receita ao longo do tempo com um gráfico de linha.
 6.	
-Conclusão
+#Conclusão:
+ 
 Este é um exemplo simples de como usar Python para fazer análises de dados básicas e criar visualizações informativas.
 A combinação de pandas, matplotlib e seaborn fornece uma poderosa ferramenta para qualquer Analista de Dados.
